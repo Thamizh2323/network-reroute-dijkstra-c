@@ -168,6 +168,6 @@ inaccessible
 
 ## Author
 
-**Tamil Selvan**  
+**Thamizh**  
 Algorithm: Dijkstra's Shortest Path  
 Language: C (C99 standard)
